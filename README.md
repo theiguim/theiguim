@@ -13,7 +13,7 @@
 
 
 <div align="center">  
-<a href="https://www.instagram.com/theiguim/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-5e0d0d?style=for-the-badge"</a>
+<a href="https://theiguim.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-5e0d0d?style=for-the-badge"</a>
 </div> 
  
 ### Main skills:
