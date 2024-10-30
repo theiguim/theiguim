@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5e0d0d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+IGOR+SANDRO;Be+Welcome!+🖖🏼🚀
 )](https://git.io/typing-svg) 
 
+<div align="center">  
+<a href="https://theiguim.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-5e0d0d?style=for-the-badge"</a>
+</div> 
+
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -28,9 +32,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-<div align="center">  
-<a href="https://theiguim.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-5e0d0d?style=for-the-badge"</a>
-</div> 
   
  [![Igor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theiguim&bg_color=000000&color=5e0d0d&line=5e0d0d&point=5e0d0d&area=true&hide_border=true)](https://github.com/theiguim)
  
