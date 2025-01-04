@@ -30,11 +30,12 @@
 ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 
-
- [![Igor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theiguim&bg_color=000000&color=5e0d0d&line=5e0d0d&point=5e0d0d&area=true&hide_border=true)](https://github.com/theiguim)
-
  <div align="center"> 
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theiguim&layout=compact&langs_count=7&hide_border=true&title_color=5e0d0d&text_color=white&bg_color=0d1117" />
 </div>
+
+ [![Igor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theiguim&bg_color=000000&color=5e0d0d&line=5e0d0d&point=5e0d0d&area=true&hide_border=true)](https://github.com/theiguim)
+
+
  
 
