@@ -6,7 +6,7 @@
 
 Web development, automation, integrations, and custom software.
 
-[Portfolio](https://theiguim.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/theiguim/)
+[LinkedIn](https://www.linkedin.com/in/theiguim/)
 
 </div>
 
