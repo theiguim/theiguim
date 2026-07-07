@@ -36,11 +36,11 @@ My academic background includes Software Engineering studies, Information Techno
 
 **Main**
 
-`Node.js` · `React` · `Next.js` · `TypeScript` · `JavaScript`
+`TypeScript` · `C` · `Python` · `Node.js` 
 
 **Front-end**
 
-`HTML` · `CSS` · `Sass` · `Bootstrap` · `jQuery`
+`React` · `Next.js` . `Tailwind` · `Sass` · `Bootstrap` · `jQuery`
 
 **Back-end & Data**
 
@@ -52,11 +52,6 @@ My academic background includes Software Engineering studies, Information Techno
 
 ---
 
-## Currently Studying
-
-`C` · `Python` · `Software Engineering`
-
----
 
 <div align="center">
 
