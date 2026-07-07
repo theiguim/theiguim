@@ -10,7 +10,6 @@ Web development, automation, integrations, and custom software.
 
 </div>
 
----
 
 ## About
 
