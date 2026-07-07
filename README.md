@@ -6,7 +6,7 @@
 
 Web development, automation, integrations, and custom software.
 
-[LinkedIn](https://www.linkedin.com/in/theiguim/)
+[BitBloom AI](https://www.bitbloomai.com/) . [LinkedIn](https://www.linkedin.com/in/theiguim/)
 
 </div>
 
