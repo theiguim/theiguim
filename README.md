@@ -20,7 +20,6 @@ My work is focused on building practical, reliable solutions with clear purpose,
 
 My academic background includes Software Engineering studies, Information Technology Management, and a Bachelor's degree in Theology.
 
----
 
 ## Core Work
 
@@ -30,7 +29,6 @@ My academic background includes Software Engineering studies, Information Techno
 - Front-end interfaces and user experience
 - Technical execution with business context
 
----
 
 ## Tech Stack
 
